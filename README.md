@@ -2,7 +2,7 @@
 
 ## Workflow Architecture Design 
 
-![n8n_excel](https://github.com/user-attachments/assets/6058c7c0-9330-4e04-9a58-95d5541fbf18)
+![n8n_excel](https://github.com/user-attachments/assets/4747e4cd-baa9-42d5-ad87-a7f195cbf99f)
 
 ## Demo Video
 
